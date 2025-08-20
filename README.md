@@ -8,6 +8,8 @@ A minimalist minecraft launcher for singleplayer forge only, currently in develo
 
 -> Customisation : use any picture as the background
 
+-> Extra Terminal acting like Powershell
+
 You need to set your JAVA_HOME env. variable to a 1.8 JDK to run the instances.
 The current working versions are 1.21.8, 1.16.5, 1.12.2.
 Have fun!
